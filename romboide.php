@@ -10,12 +10,10 @@
 </head>
 <body>
 <div style='margin: 15px;'>
-    <span class='h2'>Figuras geometricas</span>
-    <br>
+    <span class='h2'>Romboide</span>
+
     <div style='margin-top: 10px;'>
-        <a id='btnOctogono' href='octogono.php' class='btn btn-info'>Octogono</a>
-        <a id='btnRomboide' href='romboide.php' class='btn btn-info'>Romboide</a>
-        <a id='btnTrapecio' href='trapecio.php' class='btn btn-info'>Trapecio</a>
+        <a id='btnOctogono' href='index.php' class='btn btn-danger'>Volver</a>
     </div>
 </div>
 </body>

@@ -10,9 +10,7 @@
 </head>
 <body>
 <div style='margin: 15px;'>
-	<span class='h2'>Octogono</span>
-	
-	
+	<span class='h2'>Trapecio</span>
 	
 	<div style='margin-top: 10px;'>
 		<a id='btnOctogono' href='index.php' class='btn btn-danger'>Volver</a>
