@@ -16,6 +16,8 @@
     </div>
     <div style='margin: 10px 0;'>
         Calcular el área de las figuras geométricas
+        <br>
+        <img src='img/figuras.jpg' alt=''>
     </div>
 </div>
 </body>
